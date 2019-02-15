@@ -17,19 +17,22 @@ class wordSearch
       string inputLower = inputAlphanumeric.ToLower();
       string[] trueInput = inputLower.Split();
 
+      string wordAlphanumeric = String.Concat(userWord.Where(c => Char.IsWhiteSpace(c) || Char.IsLetterOrDigit(c)));
+      string trueWord = wordAlphanumeric.ToLower();
+
       int foundNumbers = 0;
-      if (userInput.Length == 0 || userWord.Length == 0)
+      if (trueWord.Length == 0 || trueInput.Length == 0)
       {
         Console.WriteLine("One or more fields left blank! Please try again.");
       } else {
         for (int i = 0; i < trueInput.Length; i++)
         {
-          if (trueInput[i].Contains(userWord))
+          if (trueInput[i].Contains(trueWord))
           {
             foundNumbers ++;
           }
         }
-        Console.WriteLine("You used the word" + " *" + userWord + "* " + foundNumbers + " times.");
+        Console.WriteLine("You used the word" + " *" + userWord + "* " + foundNumbers + " time(s).");
       }
     }
   }
