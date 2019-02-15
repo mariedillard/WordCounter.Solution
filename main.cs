@@ -18,15 +18,19 @@ class wordSearch
       string[] trueInput = inputLower.Split();
 
       int foundNumbers = 0;
-
-      for (int i = 0; i < trueInput.Length; i++)
+      if (userInput.Length == 0 || userWord.Length == 0)
       {
-        if (trueInput[i].Contains(userWord))
+        Console.WriteLine("One or more fields left blank! Please try again.");
+      } else {
+        for (int i = 0; i < trueInput.Length; i++)
         {
-          foundNumbers ++;
+          if (trueInput[i].Contains(userWord))
+          {
+            foundNumbers ++;
+          }
         }
+        Console.WriteLine("You used the word" + " *" + userWord + "* " + foundNumbers + " times.");
       }
-      Console.WriteLine("You used the word" + " *" + userWord + "* " + foundNumbers + " times.");
     }
   }
 }
