@@ -1,0 +1,15 @@
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.deps.json
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.json
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.dev.json
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.pdb
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.pdb
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.csproj.CoreCompileInputs.cache
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.AssemblyInfoInputs.cache
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.AssemblyInfo.cs
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.dll
+/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.pdb
