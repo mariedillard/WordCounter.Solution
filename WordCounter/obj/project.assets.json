@@ -7042,11 +7042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dell/Desktop/wordSearch.Solutions/wordSearch/wordSearch.csproj",
-      "projectName": "wordSearch",
-      "projectPath": "/home/dell/Desktop/wordSearch.Solutions/wordSearch/wordSearch.csproj",
+      "projectUniqueName": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter/WordCounter.csproj",
+      "projectName": "WordCounter",
+      "projectPath": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter/WordCounter.csproj",
       "packagesPath": "/home/dell/.nuget/packages/",
-      "outputPath": "/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/",
+      "outputPath": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dell/.nuget/NuGet/NuGet.Config"

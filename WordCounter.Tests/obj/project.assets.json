@@ -8490,11 +8490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/WordCounter.Tests.csproj",
+      "projectUniqueName": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter.Tests/WordCounter.Tests.csproj",
       "projectName": "WordCounter.Tests",
-      "projectPath": "/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/WordCounter.Tests.csproj",
+      "projectPath": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter.Tests/WordCounter.Tests.csproj",
       "packagesPath": "/home/dell/.nuget/packages/",
-      "outputPath": "/home/dell/Desktop/wordSearch.Solutions/WordCounter.Tests/obj/",
+      "outputPath": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dell/.nuget/NuGet/NuGet.Config"
@@ -8509,8 +8509,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "/home/dell/Desktop/wordSearch.Solutions/WordCounter/WordCounter.csproj": {
-              "projectPath": "/home/dell/Desktop/wordSearch.Solutions/WordCounter/WordCounter.csproj"
+            "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter/WordCounter.csproj": {
+              "projectPath": "/home/dell/Desktop/Projects/Week6Project/wordSearch.Solutions/WordCounter/WordCounter.csproj"
             }
           }
         }

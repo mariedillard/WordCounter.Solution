@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using wordSearch;
+using WordCounter;
 
-namespace wordSearch.Tests
+namespace WordCounter.Tests
 {
   [TestClass]
   public class RepeatCounterTest
@@ -15,6 +15,11 @@ namespace wordSearch.Tests
     public void IsRepeatCount_TestTwo_True()
     {
       Assert.AreEqual(true, RepeatCounter.testTwo());
+    }
+    [TestMethod]
+    public void IsRepeatCount_TestThree_True()
+    {
+      Assert.AreEqual(true, RepeatCounter.testThree());
     }
   }
 }
