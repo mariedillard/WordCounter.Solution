@@ -1,8 +1,0 @@
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/bin/Debug/netcoreapp1.1/wordSearch.deps.json
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/bin/Debug/netcoreapp1.1/wordSearch.dll
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/bin/Debug/netcoreapp1.1/wordSearch.pdb
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/Debug/netcoreapp1.1/wordSearch.csproj.CoreCompileInputs.cache
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/Debug/netcoreapp1.1/wordSearch.AssemblyInfoInputs.cache
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/Debug/netcoreapp1.1/wordSearch.AssemblyInfo.cs
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/Debug/netcoreapp1.1/wordSearch.dll
-/home/dell/Desktop/wordSearch.Solutions/wordSearch/obj/Debug/netcoreapp1.1/wordSearch.pdb
