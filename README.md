@@ -1,4 +1,4 @@
-# _Word Search_
+# _Word Counter_
 
 #### _A program to help you mind your words, February/15/2019_
 
