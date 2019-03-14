@@ -42,5 +42,6 @@ _Contact Marie @mariedillard on github and mariedillard@protonmail.com for suppo
 ## Technologies Used
 
 _Created using atom and c#, code relies on Microsoft .NET Framework and Mono._
-### Licenseb
+
+### License
 Copyright (c) 2019 **milkybot**
